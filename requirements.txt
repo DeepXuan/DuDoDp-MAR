@@ -1,0 +1,11 @@
+argparse
+blobfile
+h5py
+imageio
+mpi4py
+numpy
+Pillow
+pyyaml
+torch-radon==2.0.0
+tqdm
+odl==1.0.0.dev0
