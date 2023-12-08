@@ -6,6 +6,6 @@ mpi4py
 numpy
 Pillow
 pyyaml
-torch-radon==2.0.0
 tqdm
-odl==1.0.0.dev0
+torch-radon==2.0.0 # https://github.com/matteo-ronchetti/torch-radon/tree/c1d3af21a64f4c97e74d37472dccda2294b65ae2
+odl==1.0.0.dev0 # (optional) pip install https://github.com/odlgroup/odl/archive/master.zip
